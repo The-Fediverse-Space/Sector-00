@@ -1,2 +1,2 @@
-# Sector-00
+# Sector 00
 The Fediverse Space 
